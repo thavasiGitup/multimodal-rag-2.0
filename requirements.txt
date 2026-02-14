@@ -13,3 +13,13 @@ langchain
 tiktoken
 streamlit
 requests
+fastapi
+uvicorn
+openai
+faiss-cpu
+easyocr
+moviepy
+pypdf
+python-dotenv
+opencv-python
+numpy
