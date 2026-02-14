@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+openai
+python-dotenv
+faiss-cpu
+easyocr
+opencv-python
+moviepy
+pytesseract
+pypdf
+langchain
+tiktoken
+streamlit
+requests
